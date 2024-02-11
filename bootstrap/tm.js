@@ -1,0 +1,1 @@
+document.getElementById("coder").innerHTML = "<h1>البرمجة</h1><p style='font-size:0.7cm;'> تم برمجة المنصة بواسطة زياد الحموي</p>"
